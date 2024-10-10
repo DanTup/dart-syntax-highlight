@@ -13,4 +13,6 @@ dev_dependencies:
 # TODO(dantup): Remove this once string_scanner 1.4 is published and is compatible with our other deps
 dependency_overrides:
   string_scanner:
-    git: https://github.com/dart-lang/string_scanner
+    git:
+      url: https://github.com/dart-lang/string_scanner
+      ref: 084b201c54b168aced178fff41fce71e3869ae42
