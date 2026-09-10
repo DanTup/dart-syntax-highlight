@@ -52,8 +52,7 @@
 >///                                                                             // Line 26
 #^^^ comment.block.documentation.dart
 >///    notcode                                                                  // Line 27
-#^^^^^^^ comment.block.documentation.dart
-#       ^^^^^^^ comment.block.documentation.dart variable.other.source.dart
+#^^^^^^^^^^^^^^ comment.block.documentation.dart
 >///                                                                             // Line 28
 #^^^ comment.block.documentation.dart
 >///     code1                                                                   // Line 29
@@ -128,8 +127,7 @@
 > *                                                                              // Line 61
 #^^ comment.block.documentation.dart
 > *    notcode                                                                   // Line 62
-#^^^^^^ comment.block.documentation.dart
-#      ^^^^^^^ comment.block.documentation.dart variable.other.source.dart
+#^^^^^^^^^^^^^ comment.block.documentation.dart
 > *                                                                              // Line 63
 #^^ comment.block.documentation.dart
 > *     code1                                                                    // Line 64
@@ -216,8 +214,7 @@
 > *   /**                                                                        // Line 102
 #^^^^^^^^ comment.block.documentation.dart
 > *    * bbb                                                                     // Line 103
-#^^^^^^ comment.block.documentation.dart
-#      ^^^^^ comment.block.documentation.dart variable.other.source.dart
+#^^^^^^^^^^^ comment.block.documentation.dart
 > *    */                                                                        // Line 104
 #^^^^^^^^ comment.block.documentation.dart
 > */                                                                             // Line 105
